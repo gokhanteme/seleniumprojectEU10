@@ -71,7 +71,7 @@ Expected: forgot_password=yes
             System.out.println("HREF attribute value verification FAİLED!");
         }
 
-        driver.close();
+       // driver.close();
 
     }
 
